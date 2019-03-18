@@ -1,0 +1,17 @@
+package com.chrisyoo.introduction_to_testing_warburton;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+public class WorldWrapTest {
+	
+	public static final int LINE_LENGTH = 5;
+	
+	@Test
+	public void lineShouldWrapIfOverLineLength() {
+		String result = WordWrap.wrap("The Sleepy");
+		assertEquals("The S\nleepy", result);
+	}
+
+}

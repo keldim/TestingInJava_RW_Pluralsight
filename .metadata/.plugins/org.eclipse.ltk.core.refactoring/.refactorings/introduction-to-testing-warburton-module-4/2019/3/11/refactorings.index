@@ -1,0 +1,7 @@
+1552199715672	Move compilation unit
+1552199948465	Rename method 'isLeap'
+1552200429318	Extract method 'isDivisible'
+1552202055045	Rename type 'WorldWrap'
+1552202060638	Rename type 'WorldWrapTest'
+1552202532709	Rename local variable 'sb'
+1552204147512	Extract local variable 'length'

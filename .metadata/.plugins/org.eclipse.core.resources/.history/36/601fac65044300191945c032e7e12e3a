@@ -1,0 +1,9 @@
+package com.chrisyoo.introduction_to_testing_warburton;
+
+public class WordWrap {
+
+	public static String wrap(String inputLine) {
+		return inputLine;
+	}
+
+}

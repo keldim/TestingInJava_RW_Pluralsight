@@ -1,0 +1,10 @@
+package com.chrisyoo.introduction_to_testing_warburton;
+
+public class ApplicationRunner {
+
+	public String run(final String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

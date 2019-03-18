@@ -1,0 +1,16 @@
+package com.chrisyoo.introduction_to_testing_warburton;
+
+import org.junit.Test;
+
+public class LeapYearTest {
+	
+	
+	
+	@Test
+	public void leapYearsAreDivisibleByFour( ) {
+		assertTrue(LeapYear.isLeap(2016));
+	}
+	
+	
+	
+}

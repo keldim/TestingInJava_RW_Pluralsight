@@ -1,0 +1,9 @@
+package com.chrisyoo.introduction_to_testing_warburton;
+
+public class LeapYear {
+
+	public static boolean isLeap(int year) {
+		return false;
+	}
+
+}
